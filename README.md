@@ -1,9 +1,8 @@
-# Tech-a-Thon-Mask-Detector
+# Tech-a-Thon
+# Mask-Detector
 
+Tech-a-thon is an annual 5-week Hackathon organized by the ECE Society of Birla Institute of Technology, Mesra. We selected the ML/AI domain and worked on the theme-Recognition Systems.We built a Mask Detector which helps in distinguishing among people who are wearing and are not wearing a mask in a crowd using facial recognition system. 
 
-
-# Mask Detector 
-We built a Mask Detector which helps in distinguishing among people who are wearing and are not wearing a mask in a crowd using facial recognition system. 
 It crops the facial area from the uncontrolled real-time images having differences in face size, orientation and background. This helps in better localizing the person who is violating the facemask norms in public areas. 
 It then recognizes the presence of mask and displays a message accordingly. 
 
